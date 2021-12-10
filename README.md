@@ -13,7 +13,7 @@ Project ini terdiri dari 4 services, yaitu:
 Clone repository ini dengan perintah
 
     git clone https://github.com/ragil000/microservice.auth
-Kemudian masuk kedalam direktori folder `microservice.gateaway` dan jalankan perintah
+Kemudian masuk kedalam direktori folder `microservice.auth` dan jalankan perintah
 
     npm install
 Kemudian jalankan aplikasi dengan perintah
